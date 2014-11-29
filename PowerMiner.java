@@ -31,7 +31,6 @@ package PowerMiner;
 			cookie.add(new drop());
 			cookie.add(new mine());
 			cookie.add(new AntiBan());
-			cookie.add(new dialog());
 			provide(cookie);
 			return true;
 		}
@@ -59,4 +58,4 @@ package PowerMiner;
 	
 	
 
-
+}
